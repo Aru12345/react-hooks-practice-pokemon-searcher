@@ -1340,6 +1340,60 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "black",
+      "hp": "12",
+      "sprites": {
+        "front": "",
+        "back": ""
+      },
+      "id": 151
+    },
+    {
+      "name": "black",
+      "hp": "12",
+      "sprites": {
+        "front": "",
+        "back": ""
+      },
+      "id": 152
+    },
+    {
+      "name": "black",
+      "hp": "12",
+      "sprites": {
+        "front": "sfsdf",
+        "back": "fsdf"
+      },
+      "id": 153
+    },
+    {
+      "name": "black",
+      "hp": "12",
+      "sprites": {
+        "front": "sfsdf",
+        "back": "fsdf"
+      },
+      "id": 154
+    },
+    {
+      "name": "black",
+      "hp": "12",
+      "sprites": {
+        "front": "sfsdf",
+        "back": "fsdf"
+      },
+      "id": 155
+    },
+    {
+      "name": "black",
+      "hp": "12",
+      "sprites": {
+        "front": "",
+        "back": ""
+      },
+      "id": 156
     }
   ]
 }
